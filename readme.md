@@ -3,13 +3,13 @@
 ### To ensure you have the most up-to-date setup, follow these steps to replace your existing components.
 
 # Updating Lavalink on Replit
-[![Update Lavalink on Repl.it](https://replit.com/badge)](https://replit.com/github/YourGitHubUsername/YourRepoName)
+[![Update Lavalink on Repl.it](https://replit.com/badge)](https://replit.com/github/ScienceGear/Lavalink-Repl)
 
 ## Installation and Configuration
 
 1. Begin by forking this GitHub repository.
 2. Next, create a new Replit project.
-3. To streamline the installation process, you can also [automatically install it here](https://replit.com/github/YourGitHubUsername/YourRepoName).
+3. To streamline the installation process, you can also [automatically install it here](https://replit.com/github/ScienceGear/Lavalink-Repl).
 
 # Utilizing the System
 
