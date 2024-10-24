@@ -1,6 +1,6 @@
 server: # REST and WS server
   port: 443
-  address: 0.0.0.0
+  address: 129.150.52.34
 plugins:
 #  name: # Name of the plugin
 #    some_key: some_value # Some key-value pair for the plugin
@@ -11,7 +11,7 @@ lavalink:
 #      repository: "repository"
   pluginsDir: "./plugins"
   server:
-    password: "mypassword"
+    password: "Joeljr12345"
     sources:
       youtube: true
       bandcamp: true
